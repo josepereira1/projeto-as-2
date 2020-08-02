@@ -1,4 +1,4 @@
-# projeto-as-2
+# refactoring-trading-platform
 Segundo projeto de Arquiteturas de Software
 
 # Grupo:
